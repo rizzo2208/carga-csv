@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32317.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "carga csv", "carga csv\carga csv.csproj", "{745FEF90-22EA-4B8E-8D35-5127C4631AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{745FEF90-22EA-4B8E-8D35-5127C4631AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745FEF90-22EA-4B8E-8D35-5127C4631AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745FEF90-22EA-4B8E-8D35-5127C4631AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745FEF90-22EA-4B8E-8D35-5127C4631AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94E803A0-F5C8-4757-A01A-EA18800A3817}
+	EndGlobalSection
+EndGlobal
